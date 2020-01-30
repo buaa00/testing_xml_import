@@ -8,6 +8,7 @@
         <PropertiesForSale>
             <Property>
                 <PropertyId>1050295</PropertyId>
+                <Title>Stan 1</Title>
                 <PropertyPurpose>Stambeni prostor</PropertyPurpose>
                 <PropertyAction>Prodaja</PropertyAction>
                 <PropertyClass>Stan</PropertyClass>
@@ -49,6 +50,7 @@
             </Property>
             <Property>
                 <PropertyId>1050296</PropertyId>
+                <Title>Stan 2</Title>
                 <PropertyPurpose>Stambeni prostor</PropertyPurpose>
                 <PropertyAction>Prodaja</PropertyAction>
                 <PropertyClass>Stan</PropertyClass>
@@ -92,6 +94,7 @@
         <PropertiesForRent>
             <Property>
                 <PropertyId>1050292</PropertyId>
+                <Title>Stan 3</Title>
                 <PropertyPurpose>Stambeni prostor</PropertyPurpose>
                 <PropertyAction>Prodaja</PropertyAction>
                 <PropertyClass>Stan</PropertyClass>
@@ -133,6 +136,7 @@
             </Property>
             <Property>
                 <PropertyId>1050291</PropertyId>
+                <Title>Stan 4</Title>
                 <PropertyPurpose>Stambeni prostor</PropertyPurpose>
                 <PropertyAction>Prodaja</PropertyAction>
                 <PropertyClass>Stan</PropertyClass>
