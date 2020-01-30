@@ -8,7 +8,7 @@
         <PropertiesForSale>
             <Property>
                 <PropertyId>1050295</PropertyId>
-                <Title>Stan 1 izmenjeno ponovo</Title>
+                <Title>Stan 1 izmenjeno ponovo ponovo</Title>
                 <PropertyPurpose>Stambeni prostor</PropertyPurpose>
                 <PropertyAction>Prodaja</PropertyAction>
                 <PropertyClass>Stan</PropertyClass>
@@ -48,48 +48,7 @@
                     </Image>
                 </Images>
             </Property>
-            <Property>
-                <PropertyId>1050296</PropertyId>
-                <Title>Stan 2 izmenjeno</Title>
-                <PropertyPurpose>Stambeni prostor</PropertyPurpose>
-                <PropertyAction>Prodaja</PropertyAction>
-                <PropertyClass>Stan</PropertyClass>
-                <Structure>2.5</Structure>
-                <HeatingType>CG</HeatingType>
-                <Floor>5</Floor>
-                <IsMultifloor>1</IsMultifloor>
-                <TotalFloors />
-                <PropertyState>izvorno stanje</PropertyState>
-                <PropertyTypes>Dupleks</PropertyTypes>
-                <PropertyKind>u izgradnji</PropertyKind>
-                <ConstructionYear>2019</ConstructionYear>
-                <PropertyLister>agencija</PropertyLister>
-                <PropertyRegistered>0</PropertyRegistered>
-                <Description>
-                    <![CDATA[Novi Sad,Novo Naselje ,odličan dvoiposoban stan u izgradnji,rok kraj godine,cena sa pdv-om.,  (Bomil nekretnine, Novi Sad, Reg. br. 251) Šifra: 1050296]]>
-                </Description>
-                <IsAvailableNow>0</IsAvailableNow>
-                <Amenities>Terasa, Garaza,</Amenities>
-                <Furnishing />
-                <ListedAt>2019-11-23 10:45:24</ListedAt>
-                <Country>Srbija</Country>
-                <City>NOVI SAD</City>
-                <CityPart>NOVO NASELJE</CityPart>
-                <CityMicrolocation />
-                <Street />
-                <HouseNumber />
-                <AppartmentNumber />
-                <PropertySurface>63.36</PropertySurface>
-                <PropertyLandSurface />
-                <PropertyLandSurfaceUnit>m2</PropertyLandSurfaceUnit>
-                <Geolocation />
-                <Price>72864.00</Price>
-                <Images>
-                    <Image>
-                        <![CDATA[https://bomil.rs/reaa/images/stanovi/1050296/1560959845.jpg]]>
-                    </Image>
-                </Images>
-            </Property>
+            
         </PropertiesForSale>
         <PropertiesForRent>
             <Property>
@@ -135,6 +94,48 @@
                 </Images>
             </Property>
           
+            <Property>
+                <PropertyId>10502101</PropertyId>
+                <Title>Stan najnoviji</Title>
+                <PropertyPurpose>Stambeni prostor</PropertyPurpose>
+                <PropertyAction>Prodaja</PropertyAction>
+                <PropertyClass>Stan</PropertyClass>
+                <Structure>2.5</Structure>
+                <HeatingType>CG</HeatingType>
+                <Floor>0</Floor>
+                <IsMultifloor>0</IsMultifloor>
+                <TotalFloors />
+                <PropertyState>izvorno stanje</PropertyState>
+                <PropertyTypes>Visoko prizemlje</PropertyTypes>
+                <PropertyKind>u izgradnji</PropertyKind>
+                <ConstructionYear>2019</ConstructionYear>
+                <PropertyLister>agencija</PropertyLister>
+                <PropertyRegistered>0</PropertyRegistered>
+                <Description>
+                    <![CDATA[Novi Sad,Novo Naselje ,odličan dvoiposoban stan u izgradnji,rok kraj godine,cena sa pdv-om.Stan je u visokom parteru na 2 m od nivoa tla.  (Bomil nekretnine, Novi Sad, Reg. br. 251) Šifra: 1050295]]>
+                </Description>
+                <IsAvailableNow>0</IsAvailableNow>
+                <Amenities>Terasa, Garaza,</Amenities>
+                <Furnishing />
+                <ListedAt>2019-11-23 10:45:36</ListedAt>
+                <Country>Srbija</Country>
+                <City>NOVI SAD</City>
+                <CityPart>NOVO NASELJE</CityPart>
+                <CityMicrolocation />
+                <Street />
+                <HouseNumber />
+                <AppartmentNumber />
+                <PropertySurface>47.99</PropertySurface>
+                <PropertyLandSurface />
+                <PropertyLandSurfaceUnit>m2</PropertyLandSurfaceUnit>
+                <Geolocation />
+                <Price>62400.00</Price>
+                <Images>
+                    <Image>
+                        <![CDATA[https://bomil.rs/reaa/images/stanovi/1050295/1560959239.jpg]]>
+                    </Image>
+                </Images>
+            </Property>
         </PropertiesForRent>
     </Agency>
 </Agencies>
